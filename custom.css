@@ -1,7 +1,5 @@
-#mc_embed_signup {
-  position: relative;
 
-}
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
 
 #mce-EMAIL {
   height: 30px;
@@ -42,10 +40,16 @@ img {
 
 .container {
   padding-top: 20vh;
+  padding-bottom: 80px;
 }
 
 .intro-text {
   padding-bottom: 30px;
+}
+
+.intro-text-link {
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 .title-text {
@@ -61,6 +65,35 @@ img {
   margin: auto;
   width: 50%;
 }
+.btn {
+  background-color: #0a9fdf;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 0.9em;
+  height: 35px;
+  width: 150px;
+  padding: 5px;
+  border: 0;
+  border-radius: 3px;
+  box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.19);
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #3BA560;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 0.9em;
+  height: 45px;
+  width: 150px;
+  padding: 5px;
+  border: 0;
+  border-radius: 3px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+
 
 .email-2 {
   display: block;
