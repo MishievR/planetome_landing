@@ -1,0 +1,108 @@
+#mc_embed_signup {
+  position: relative;
+
+}
+
+#mce-EMAIL {
+  height: 30px;
+  width: 350px;
+  margin-bottom: -7px;
+  margin-top: 10px;
+  border: 0;
+
+
+}
+#mce-EMAIL.placeholder {
+  color: #000;
+}
+
+div.mc-field-group input {
+  background-color: #000;
+}
+
+
+label {
+  font-family: 'Open Sans', sans-serif;
+  color: #272525;
+  font-size: 1.2em;
+}
+body {
+  color: #272525;
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  padding-top: 20vh;
+}
+
+.intro-text {
+  padding-bottom: 30px;
+}
+
+.title-text {
+  margin-bottom: 30px;
+}
+
+.email-hr {
+  margin-bottom: 15px;
+}
+
+.intro {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+.email-2 {
+  display: block;
+  margin: auto;
+  width:40%;
+}
+
+input.button {
+  background-color: #0a9fdf;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 1.2em;
+  height: 45px;
+  width: 150px;
+  border: 0;
+  border-radius: 5px;
+  box-shadow:  0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+input.button:hover{
+  background-color: #3BA560;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+  font-size: 1.2em;
+  height: 45px;
+  width: 150px;
+  border: 0;
+  border-radius: 5px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 8px 0 rgba(0, 0, 0, 0.2);
+
+}
+
+
+div.mc-field-group input {
+  color: #ffffff;
+}
+
+.footer-bottom {
+    background-color: #ffffff;
+    height: 40px;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
